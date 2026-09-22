@@ -364,7 +364,7 @@ function App() {
 						<Character />
 					</div>
 					<div className="scroll-cue">
-						SCROLL <span />
+						 <span />
 					</div>
 				</section>
 
